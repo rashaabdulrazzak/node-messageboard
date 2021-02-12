@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  a(class='button' href='/new') Add a New Message
+  each val in messages
+    h2= val.user
+    p= val.text
+    p(style="border-bottom:1px solid black;padding-bottom:10px")= val.added
