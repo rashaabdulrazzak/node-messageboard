@@ -9,7 +9,7 @@ It is a simple board where you can see messages and add a new message to the boa
 - PUG as a template language
 
 ## Output
-<img src='public/images/output.png' width='600' height='400'>
+<img src='public/images/output.png' width='600' height='400'>  
 ## How to Use
 
 1.  clone the repository.
