@@ -10,6 +10,7 @@ It is a simple board where you can see messages and add a new message to the boa
 
 ## Output
 <img src='public/images/output.png' width='600' height='400'>  
+<br>
 ## How to Use
 
 1.  clone the repository.
